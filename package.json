@@ -1,5 +1,5 @@
 {
-  "name": "com-badrit-macaddress",
+  "name": "MacAddress",
   "version": "0.2.1",
   "description": "Cordova MacAddress Plugin",
   "cordova": {
